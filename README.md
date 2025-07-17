@@ -1,30 +1,104 @@
-<!-- GitHub Profile README for Yogendra Dayal -->
+# 👋 Hi, I'm Yogendra Dayal
 
-# 👋 Hey there, I'm Yogendra Dayal
-
-💻 Full-Stack Developer | 🌐 MERN Stack Enthusiast | 🚀 Passionate about scalable web solutions
-
-Welcome to my GitHub! I'm a developer who enjoys building efficient, clean, and scalable applications. I specialize in JavaScript and the MERN stack, and I love exploring new technologies and solving real-world problems through code.
+🎓 B.Tech CSE | AKGEC'26  
+💻 Full Stack Developer | Data Analyst | PHP Developer  
+📍 Ghaziabad, India  
+📫 yogendradayal3@gmail.com | 📞 +91-8273499472
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on: Freelance web apps & personal projects
-- 🌱 I’m learning: TypeScript, Next.js, Docker
-- 👯 I’m looking to collaborate on: Full-stack open-source projects
-- 💬 Ask me about: React, Node.js, MongoDB, Git
-- 📫 How to reach me: [yogendradayal3@gmail.com](mailto:yogendradayal3@gmail.com)
-- ⚡ Fun fact: I break things to learn how they work
+I'm a passionate tech enthusiast skilled in **Full Stack Development**, **Data Analytics**, and **Secure Web Systems**. I build scalable, secure, and performance-oriented web apps. My focus is on delivering real-world impact with clean, maintainable code.
+
+I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based login systems, AI-powered resume screeners, and sales dashboards.
 
 ---
 
 ## 🛠️ Tech Stack
 
-```bash
-💡 Languages: JavaScript, TypeScript, Python  
-⚙️ Frameworks/Libraries: React, Node.js, Express.js, Next.js  
-🛢️ Databases: MongoDB, MySQL  
-🔧 Tools: Git, VS Code, Postman, Figma  
-🌐 Deployment: Vercel, Netlify, Render
+**Languages:**  
+`Python` `JavaScript` `PHP` `SQL` `TypeScript`
 
+**Web Dev:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PHP` `WordPress` `REST APIs`
+
+**Data & Analytics:**  
+`Power BI` `Excel` `Tableau` `NumPy` `Pandas` `scikit-learn`
+
+**Tools:**  
+`Git` `Postman` `Firebase` `PHPMailer` `Streamlit` `Chart.js`
+
+---
+
+## 💼 Internships
+
+**PHP Developer Intern** – *TechiesGateway IT Solutions*  
+- Built modules in PHP & MySQL for CMS applications  
+- Designed secure authentication with email OTP  
+- Improved backend query speed by 70%  
+- Gained experience with session management, XSS/SQLi prevention
+
+**Full Stack Intern** – *Innobyte Services*  
+- Developed dashboards using MERN stack  
+- Integrated JWT Auth and REST APIs  
+- Deployed modular backend services on MongoDB
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 [Secure OTP Login System](https://github.com/yogendra/secure-login-otp-system)
+A cyber-themed, secure login system with:
+- 🛡️ Brute-force protection  
+- 📩 OTP email verification (PHPMailer)  
+- 🔐 Session-based 2FA  
+- ⏳ Countdown with rate limit  
+> **Tech:** PHP, MySQL, HTML, CSS, PHPMailer
+
+---
+
+### 📘 [Custom CMS like WordPress](https://github.com/yogendra/custom-cms-clone)
+WordPress-style CMS with full admin panel:
+- ✏️ Add/Edit/Delete Posts & Users  
+- 🧾 Comment system, Search, Excerpts  
+- 📊 Google Charts Dashboard  
+> **Tech:** PHP, MySQL, Bootstrap, jQuery
+
+---
+
+### 📊 [Market Pulse – Stock Analysis Platform](https://github.com/yogendra/market-pulse)
+Stock market analytics app with:
+- 📈 Real-time stock data (Alpha Vantage API)  
+- 🧠 Price prediction using SVM  
+- 📰 Financial news via NewsAPI  
+> **Tech:** Streamlit, Python, ML, MySQL
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Runner-Up – Recruit 2.0 Hackathon  
+- 🥉 4th Place – CINPC Coding Contest  
+- 📊 Built 10+ real-world projects  
+- 🎯 94% in Intermediate | 8.5+ CGPA in B.Tech
+
+---
+
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yogendra)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yogendra)  
+📧 yogendradayal3@gmail.com  
+📞 +91-8273499472
+
+---
+
+## 📈 GitHub Stats
+
+![Yogendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogendra&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra&layout=compact&theme=radical)
+
+---
+
+> ⚡ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
