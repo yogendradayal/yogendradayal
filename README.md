@@ -30,6 +30,9 @@ I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based logi
 `Git` `Postman` `Firebase` `PHPMailer` `Streamlit` `Chart.js`
 
 ---
+## 🔥 Open Source Contributions
+- 📌 Contributed to [Composer](https://github.com/composer/composer) – [docs: Improve method description](https://github.com/composer/composer/pull/12481)
+---
 
 ## 💼 Internships
 
@@ -77,7 +80,6 @@ Stock market analytics app with:
 ---
 
 ## 🏆 Achievements
-
 - 🥇 Runner-Up – Recruit 2.0 Hackathon  
 - 🥉 4th Place – CINPC Coding Contest  
 - 📊 Built 10+ real-world projects  
