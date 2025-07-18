@@ -14,7 +14,14 @@ I'm a passionate tech enthusiast skilled in **Full Stack Development**, **Data A
 I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based login systems, AI-powered resume screeners, and sales dashboards.
 
 ---
-
+## 🔥 Open Source Contributions
+- 🛠️ [Fix: Ignore Symbol/Function in input defaultValue (React PR #33942)](https://github.com/facebook/react/pull/33942)  
+  Contributed a fix to the React core to handle invalid `defaultValue` types in input elements ([fixes issue #27896](https://github.com/facebook/react/issues/27896))
+  
+- 📌 Contributed to Composer – Improved PHPDoc for PlatformRepository::whatProvides() method
+Enhanced the documentation clarity and accuracy of a core method used in Composer's dependency resolution logic, improving maintainability and developer experience.
+(https://github.com/composer/composer/pull/12481)
+---
 ## 🛠️ Tech Stack
 
 **Languages:**  
@@ -29,14 +36,7 @@ I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based logi
 **Tools:**  
 `Git` `Postman` `Firebase` `PHPMailer` `Streamlit` `Chart.js`
 
----
-## 🔥 Open Source Contributions
-- 🛠️ [Fix: Ignore Symbol/Function in input defaultValue (React PR #33942)](https://github.com/facebook/react/pull/33942)  
-  Contributed a fix to the React core to handle invalid `defaultValue` types in input elements ([fixes issue #27896](https://github.com/facebook/react/issues/27896))
-  
-- 📌 Contributed to Composer – Improved PHPDoc for PlatformRepository::whatProvides() method
-Enhanced the documentation clarity and accuracy of a core method used in Composer's dependency resolution logic, improving maintainability and developer experience.
-(https://github.com/composer/composer/pull/12481)
+
 ---
 
 ## 💼 Internships
@@ -65,6 +65,20 @@ A cyber-themed, secure login system with:
 > **Tech:** PHP, MySQL, HTML, CSS, PHPMailer
 
 ---
+### 🔌 DX Sales CRM – WordPress Plugin
+[🔗 View Project](https://github.com/yogendradayal/dx-sales-crm)
+
+A complete CRM solution built as a WordPress plugin to manage sales, customer records, and pipelines directly from the WP dashboard.
+
+- Built using: **PHP**, **WordPress**, **MySQL**, **WP Admin UI**
+- Features:
+  - Add/manage leads and contacts
+  - Visual sales pipelines
+  - Dashboard with key CRM metrics
+- Built with modular code and secure database integration
+- 📦 Easy to install as a regular WP plugin
+
+---
 
 ### 📘 [Custom CMS like WordPress](https://github.com/yogendradayal/contentManagementSystem)
 WordPress-style CMS with full admin panel:
@@ -72,15 +86,6 @@ WordPress-style CMS with full admin panel:
 - 🧾 Comment system, Search, Excerpts  
 - 📊 Google Charts Dashboard  
 > **Tech:** PHP, MySQL, Bootstrap, jQuery
-
----
-
-### 📊 [Market Pulse – Stock Analysis Platform](https://github.com/yogendra/market-pulse)
-Stock market analytics app with:
-- 📈 Real-time stock data (Alpha Vantage API)  
-- 🧠 Price prediction using SVM  
-- 📰 Financial news via NewsAPI  
-> **Tech:** Streamlit, Python, ML, MySQL
 
 ---
 
