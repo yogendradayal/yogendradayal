@@ -65,8 +65,8 @@ A cyber-themed, secure login system with:
 > **Tech:** PHP, MySQL, HTML, CSS, PHPMailer
 
 ---
-### 🔌 DX Sales CRM – WordPress Plugin
-[🔗 View Project](https://github.com/yogendradayal/dx-sales-crm)
+### 🔌 Sales CRM – WordPress Plugin
+[🔗 View Project](https://github.com/yogendradayal/sales_crm_wordpress)
 
 A complete CRM solution built as a WordPress plugin to manage sales, customer records, and pipelines directly from the WP dashboard.
 
