@@ -56,7 +56,7 @@ Enhanced the documentation clarity and accuracy of a core method used in Compose
 
 ## 📌 Featured Projects
 
-### 🔐 [Secure OTP Login System](https://github.com/yogendra/secure-login-otp-system)
+### 🔐 [Secure OTP Login System](https://github.com/yogendradayal/cyberSecureLoginSystem)
 A cyber-themed, secure login system with:
 - 🛡️ Brute-force protection  
 - 📩 OTP email verification (PHPMailer)  
