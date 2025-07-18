@@ -31,7 +31,12 @@ I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based logi
 
 ---
 ## 🔥 Open Source Contributions
-- 📌 Contributed to [Composer](https://github.com/composer/composer) – [docs: Improve method description](https://github.com/composer/composer/pull/12481)
+- 🛠️ [Fix: Ignore Symbol/Function in input defaultValue (React PR #33942)](https://github.com/facebook/react/pull/33942)  
+  Contributed a fix to the React core to handle invalid `defaultValue` types in input elements ([fixes issue #27896](https://github.com/facebook/react/issues/27896))
+  
+- 📌 Contributed to Composer – Improved PHPDoc for PlatformRepository::whatProvides() method
+Enhanced the documentation clarity and accuracy of a core method used in Composer's dependency resolution logic, improving maintainability and developer experience.
+(https://github.com/composer/composer/pull/12481)
 ---
 
 ## 💼 Internships
