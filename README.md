@@ -66,7 +66,7 @@ A cyber-themed, secure login system with:
 
 ---
 
-### 📘 [Custom CMS like WordPress](https://github.com/yogendra/custom-cms-clone)
+### 📘 [Custom CMS like WordPress](https://github.com/yogendradayal/contentManagementSystem)
 WordPress-style CMS with full admin panel:
 - ✏️ Add/Edit/Delete Posts & Users  
 - 🧾 Comment system, Search, Excerpts  
