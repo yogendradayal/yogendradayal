@@ -1,116 +1,125 @@
-# 👋 Hi, I'm Yogendra Dayal
+<!-- Profile Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Yogendra%20Dayal&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
-🎓 B.Tech CSE | AKGEC'26  
-💻 Full Stack Developer | Data Analyst | PHP Developer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Data+Analyst;Open+Source+Contributor;Tech+Enthusiast" />
+</p>
+
+---
+
+## 👋 About Me
+
+🎓 **B.Tech CSE | AKGEC'26**  
 📍 Ghaziabad, India  
-📫 yogendradayal3@gmail.com | 📞 +91-8273499472
+📧 [yogendradayal3@gmail.com](mailto:yogendradayal3@gmail.com) | 📞 +91-8273499472  
+
+I'm a passionate developer skilled in **Full Stack Development**, **Data Analytics**, and **Secure Web Systems**.  
+I focus on building **scalable**, **secure**, and **impactful** tech solutions.
+
+I've built & deployed:
+
+- 📦 CMS Platforms & E-commerce Systems  
+- 🔐 OTP-based Secure Login Systems  
+- 📊 AI Resume Screener & Analytics Dashboards  
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate tech enthusiast skilled in **Full Stack Development**, **Data Analytics**, and **Secure Web Systems**. I build scalable, secure, and performance-oriented web apps. My focus is on delivering real-world impact with clean, maintainable code.
-
-I’ve worked on projects like CMS platforms, e-commerce systems, OTP-based login systems, AI-powered resume screeners, and sales dashboards.
-
----
 ## 🔥 Open Source Contributions
-- 🛠️ [Fix: Ignore Symbol/Function in input defaultValue (React PR #33942)](https://github.com/facebook/react/pull/33942)  
-  Contributed a fix to the React core to handle invalid `defaultValue` types in input elements ([fixes issue #27896](https://github.com/facebook/react/issues/27896))
-  
-- 📌 Contributed to Composer – Improved PHPDoc for PlatformRepository::whatProvides() method
-Enhanced the documentation clarity and accuracy of a core method used in Composer's dependency resolution logic, improving maintainability and developer experience.
-(https://github.com/composer/composer/pull/12481)
+
+- 🛠️ [React PR #33942](https://github.com/facebook/react/pull/33942) – Fix for invalid `defaultValue` types  
+  ↳ [Issue #27896](https://github.com/facebook/react/issues/27896) – Contributed directly to React core  
+- 📌 [Composer PR #12481](https://github.com/composer/composer/pull/12481) – Improved PHPDoc for `PlatformRepository::whatProvides()`  
+
 ---
-## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `JavaScript` `PHP` `SQL` `TypeScript`
+## 🧠 Tech Stack
 
-**Web Dev:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PHP` `WordPress` `REST APIs`
-
-**Data & Analytics:**  
-`Power BI` `Excel` `Tableau` `NumPy` `Pandas` `scikit-learn`
-
-**Tools:**  
-`Git` `Postman` `Firebase` `PHPMailer` `Streamlit` `Chart.js`
-
+| Domain | Tools & Technologies |
+|-------|----------------------|
+| **Languages** | `Python` `JavaScript` `PHP` `SQL` `TypeScript` |
+| **Web Dev** | `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `PHP` `WordPress` |
+| **Analytics** | `Power BI` `Tableau` `Excel` `NumPy` `Pandas` `scikit-learn` |
+| **Tools** | `Git` `Postman` `Firebase` `PHPMailer` `Streamlit` `Chart.js` |
 
 ---
 
 ## 💼 Internships
 
-**PHP Developer Intern** – *TechiesGateway IT Solutions*  
-- Built modules in PHP & MySQL for CMS applications  
-- Designed secure authentication with email OTP  
-- Improved backend query speed by 70%  
-- Gained experience with session management, XSS/SQLi prevention
+### 💻 **PHP Developer Intern** – *TechiesGateway IT Solutions*  
+- Developed core modules for CMS  
+- Integrated secure email OTP login  
+- Optimized queries to boost backend speed by 70%  
 
-**Full Stack Intern** – *Innobyte Services*  
-- Developed dashboards using MERN stack  
-- Integrated JWT Auth and REST APIs  
-- Deployed modular backend services on MongoDB
+### 🌐 **Full Stack Intern** – *Innobyte Services*  
+- Created dashboards with MERN Stack  
+- Integrated JWT auth & REST APIs  
+- Deployed services using MongoDB backend  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔐 [Secure OTP Login System](https://github.com/yogendradayal/cyberSecureLoginSystem)
-A cyber-themed, secure login system with:
-- 🛡️ Brute-force protection  
-- 📩 OTP email verification (PHPMailer)  
-- 🔐 Session-based 2FA  
-- ⏳ Countdown with rate limit  
-> **Tech:** PHP, MySQL, HTML, CSS, PHPMailer
+A cyber-themed login system with:
+- 🛡️ Brute-force & spam protection  
+- 📩 PHPMailer-based OTP  
+- 🔐 Session-based 2FA & countdown timer  
+> `PHP`, `MySQL`, `HTML`, `CSS`
 
 ---
-### 🔌 Sales CRM – WordPress Plugin
-[🔗 View Project](https://github.com/yogendradayal/sales_crm_wordpress)
 
-A complete CRM solution built as a WordPress plugin to manage sales, customer records, and pipelines directly from the WP dashboard.
-
-- Built using: **PHP**, **WordPress**, **MySQL**, **WP Admin UI**
-- Features:
-  - Add/manage leads and contacts
-  - Visual sales pipelines
-  - Dashboard with key CRM metrics
-- Built with modular code and secure database integration
-- 📦 Easy to install as a regular WP plugin
+### 🔌 [Sales CRM – WordPress Plugin](https://github.com/yogendradayal/sales_crm_wordpress)
+A powerful CRM plugin built for WordPress:
+- 🎯 Lead & contact management  
+- 📈 Sales pipeline visualization  
+- 📊 Dashboard with CRM metrics  
+> `PHP`, `WordPress`, `MySQL`, `WP Admin UI`
 
 ---
 
 ### 📘 [Custom CMS like WordPress](https://github.com/yogendradayal/contentManagementSystem)
-WordPress-style CMS with full admin panel:
-- ✏️ Add/Edit/Delete Posts & Users  
-- 🧾 Comment system, Search, Excerpts  
-- 📊 Google Charts Dashboard  
-> **Tech:** PHP, MySQL, Bootstrap, jQuery
+A dynamic content management system:
+- ✏️ Post & user CRUD operations  
+- 🔍 Search, comments, excerpts  
+- 📊 Dashboard with Google Charts  
+> `PHP`, `MySQL`, `Bootstrap`, `jQuery`
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Runner-Up – Recruit 2.0 Hackathon  
-- 🥉 4th Place – CINPC Coding Contest  
-- 📊 Built 10+ real-world projects  
-- 🎯 94% in Intermediate | 8.5+ CGPA in B.Tech
 
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yogendra)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yogendra)  
-📧 yogendradayal3@gmail.com  
-📞 +91-8273499472
+- 🥇 Runner-Up – **Recruit 2.0 Hackathon**  
+- 🥉 4th Place – **CINPC Coding Contest**  
+- 💻 Built 10+ real-world tech projects  
+- 📚 94% in Intermediate | 8.5+ CGPA in B.Tech  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Yogendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogendradayal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendradayal&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogendradayal&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendradayal&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-> ⚡ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yogendra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/yogendradayal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+📧 [yogendradayal3@gmail.com](mailto:yogendradayal3@gmail.com)  
+📞 +91-8273499472
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
