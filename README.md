@@ -97,7 +97,7 @@ A dynamic content management system:
 ## 🐍 GitHub Contribution
 
 <p align="center">
-  <img src="https://github.com/yogendradayal/yogendradayal/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yogendradayal/yogendradayal/output/snake.svg"/>
 </p>
 ---
 
