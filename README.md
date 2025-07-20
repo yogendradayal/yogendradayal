@@ -94,6 +94,12 @@ A dynamic content management system:
 - 📚 94% in Intermediate | 8.5+ CGPA in B.Tech  
 
 ---
+## 🐍 GitHub Contribution
+
+<p align="center">
+  <img src="https://github.com/yogendradayal/yogendradayal/blob/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 📈 GitHub Stats
 
