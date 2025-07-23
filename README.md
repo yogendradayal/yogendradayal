@@ -49,10 +49,11 @@ I've built & deployed:
 
 ## 💼 Internships
 
-### 💻 **PHP Developer Intern** – *TechiesGateway IT Solutions*  
-- Developed core modules for CMS  
-- Integrated secure email OTP login  
-- Optimized queries to boost backend speed by 70%  
+### 💻 **Frontend Developer Intern** – *TechiesGateway IT Solutions*  
+-  Developed and optimized core **UI components** for the in-house CMS used by clients.
+-  Implemented a secure **Email OTP-based login** using frontend validation and session handling.
+-  Achieved up to **70% performance improvement** in the frontend by minimizing reflows, async loading of resources, and code splitting.
+
 
 ### 🌐 **Full Stack Intern** – *Innobyte Services*  
 - Created dashboards with MERN Stack  
