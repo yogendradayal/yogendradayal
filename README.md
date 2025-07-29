@@ -1,9 +1,8 @@
-<!-- Profile Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Yogendra%20Dayal&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<!-- 🌐 Full-Width Gradient Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Yogendra%20Dayal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Enthusiast&descSize=20&descAlign=50&descAlignY=60&color=0:4facfe,100:00f2fe)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=440&lines=Full+Stack+Developer;Data+Analyst;Open+Source+Contributor;Tech+Enthusiast" />
-</p>
+
+
 
 ---
 
